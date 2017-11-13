@@ -8,6 +8,7 @@ int fact( int n )
 	return fact(n-1) * n;
 }
 
+// This is function main
 int main() 
 {
 	int n;
