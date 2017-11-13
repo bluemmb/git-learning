@@ -12,6 +12,7 @@ int fact( int n )
 // This is function main
 int main() 
 {
+	// Get Input
 	int n;
 	cin>>n;
 	
